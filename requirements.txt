@@ -1,0 +1,7 @@
+streamlit
+groq
+python-dotenv
+edge-tts
+SpeechRecognition
+audio-recorder-streamlit
+pydub
