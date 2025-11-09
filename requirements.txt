@@ -5,3 +5,5 @@ edge-tts
 SpeechRecognition
 audio-recorder-streamlit
 pydub
+pygame
+pyaudio
