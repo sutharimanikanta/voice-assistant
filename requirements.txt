@@ -2,8 +2,7 @@ streamlit
 groq
 python-dotenv
 edge-tts
-SpeechRecognition
+SpeechRecognition==3.10.1
 audio-recorder-streamlit
 pydub
 pygame
-pyaudio
